@@ -1,7 +1,7 @@
 - title: Develop computational models of human spoken communication
   icon: fas fa-wave-square
   # tag: Core focus
-  synopsis: I build neural network models that map acoustic speech signals to abstract linguistic representations, with the goal of explaining how humans recognize speech across variability in talkers, context, and noise.
+  synopsis: I build neural network models that map acoustic speech signals to linguistic representations, with the goal of explaining how humans recognize speech across variability in talkers, context, and noise.
   keywords:
     - speech perception
     - artificial neural networks
@@ -11,7 +11,7 @@
 - title: Measure humans spoken communication abilities at scale
   icon: fas fa-chart-line
   # tag: Methods
-  synopsis: I design novel behavioral experiments to compare model performance to human speech perception, including transcription behavior, confusion patterns, and robustness under challenging listening conditions.
+  synopsis: I design behavioral experiments to measure spoken communication abilities in humans and models.
   keywords:
     - psychophysics
     - human-model comparison
